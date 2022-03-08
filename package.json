@@ -1,0 +1,26 @@
+{
+  "name": "sitio-web",
+  "version": "1.0.0",
+  "description": "agencia de modelaje",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/scss/styles.scss ./assets/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matiasYKZ/proyecto-final.git"
+  },
+  "keywords": [
+    "MODELS",
+    "AGENCY",
+    "MALE",
+    "MODELS",
+    "MANAGEMENT"
+  ],
+  "author": "veron matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matiasYKZ/proyecto-final/issues"
+  },
+  "homepage": "https://github.com/matiasYKZ/proyecto-final#readme"
+}
